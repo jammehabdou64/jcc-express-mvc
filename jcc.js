@@ -1,3 +1,3 @@
-const { jccCommadLine } = require("./express-mvc");
+const { jccCommadLine } = require("jcc-express-mvc");
 
 jccCommadLine(process.argv);
